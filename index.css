@@ -9,6 +9,14 @@ pre {
 	color: white;
 	text-align: center;
 }
+pre {
+	font-family: "Comfotaa","Verdana","Hevletica",sans-serif;
+	/*Font ^*/
+	background: black;
+	/*Background ^*/
+	color: white;
+	/*Text Color ^*/
+}
 table {
 	width: 80%;
 	height: 300px;

@@ -5,12 +5,6 @@ body {
 }
 pre {
 	font-family: "Comfotaa","Verdana","Hevletica",sans-serif;
-	background: black;
-	color: white;
-	text-align: center;
-}
-pre {
-	font-family: "Comfotaa","Verdana","Hevletica",sans-serif;
 	/*Font ^*/
 	background: black;
 	/*Background ^*/
@@ -112,4 +106,19 @@ a {
 .andezliga {
 	color: white;
 	font-family: "Verdana",sans-serif;
+}
+.group-a {
+	color: red;
+}
+.group-b {
+	color; darkorange;
+}
+.group-c {
+	color: yellow;
+}
+.group-d {
+	color: green;
+}
+.group-e {
+	color: blue;
 }

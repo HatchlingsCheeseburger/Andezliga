@@ -16,7 +16,7 @@ table {
 	height: 300px;
 	margin: auto;
 }
-h1,h2,h3,h4,h5,h6,p,table {
+h1,h2,h3,h4,h5,h6,p,pre,table {
 	font-weight: 900;
 	text-align: center;
 }
